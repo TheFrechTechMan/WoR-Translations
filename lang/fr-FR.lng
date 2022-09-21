@@ -10,7 +10,7 @@ DownloadBtn=Télécharger
 CloseBtn=Fermer
 
 [AboutWindow]
-WindowTitle=A propos
+WindowTitle=À propos
 AppVersionLabel=Version
 CreditsPage=Crédits
 ChangelogPage=Changelog
@@ -50,7 +50,7 @@ CheckBox.DoNotShowAgain=Ne plus montrer
 
 [MessageBox.Common]
 Heading.SomethingWentWrong=Il y a eu un problème...
-Heading.Warning=Attention!
+Heading.Warning=Attention !
 
 [MainWindow]
 SendFeedbackBtn=Envoyer un commentaire
@@ -58,7 +58,7 @@ NextPageBtn=Suivant
 BackPageBtn=Retour
 NextPageBtn.Install=Installation
 NextPageBtn.Finish=Terminé
-MessageBox.TaskOngoing.Heading=Etes-vous sur de vouloir forcer la fermeture de l'application?
+MessageBox.TaskOngoing.Heading=Êtes-vous sur de vouloir forcer la fermeture de l'application?
 MessageBox.TaskOngoing.Message=Une opération est actuellement en cours.
 
 [WelcomePage]
@@ -146,7 +146,7 @@ PageTitle=Installation
 InstallOverviewLabel=Résumé d'installation
 InstallWarnBox=Attention! Toutes les données de votre appareil seront effacées ! Faites une sauvegarde de vos fichiers avant qu'il ne soit trop tard !
 OSLabel=Système d'exploitation
-DriversPathLabel=Chemin des drivers
+DriversPathLabel=Chemin des pilotes
 UEFIPathLabel=Chemin du firmware UEFI
 PartitionSchemeLabel=Table de partitionnement
 ImageDeployerLabel=Déploiement image
@@ -163,8 +163,8 @@ InstallStatusLabel.FormattingDisk=Formatage du lecteur sélectionné...
 InstallStatusLabel.CreatingPartitions=Création des partitions...
 InstallStatusLabel.InstallingWindows=Installation de Windows...
 InstallStatusLabel.InstallingBootFiles=Installation des fichiers de démarrages...
-InstallStatusLabel.InstallingDrivers=Installation des drivers...
-InstallStatusLabel.RunningScript=Running the custom script...
+InstallStatusLabel.InstallingDrivers=Installation des pilotes...
+InstallStatusLabel.RunningScript=Exécution du script personnalisé...
 InstallStatusLabel.InstallFinished=L'installation est terminée !
 InstallStatusLabel.InstallFailed=L'installation a échoué !
 MessageBox.RecoveryNotFoundWarn.Heading=L'image de récupération n'a pas pu être trouvée !
